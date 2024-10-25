@@ -7,7 +7,6 @@ html {
 
 body {
     background-color: black;
-    background-image: url(rsc/background.png);
     background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
